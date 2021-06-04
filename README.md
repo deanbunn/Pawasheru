@@ -1,3 +1,3 @@
-## PowwerShellSumo
+## PowerShellSumo
 
-A collection of my PowerShell scripts over the various years of my scripting career.
+A quick collection of PowerShell scripts over the various years of my scripting career.
